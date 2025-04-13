@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>All Anime In Hindi</title>
+</head>
+<body>
+  <h1>Welcome to All Anime in Hindi!</h1>
+  <p>This is my anime site made using Acode and GitHub Pages.</p>
+</body>
+</html>
