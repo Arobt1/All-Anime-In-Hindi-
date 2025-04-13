@@ -1,1 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Anime Website</title>
+</head>
+<body>
+  <h1>Welcome to All Anime in Hindi</h1>
+  <p>This is your first anime website made on GitHub Pages using your phone!</p>
+</body>
+</html>
 
